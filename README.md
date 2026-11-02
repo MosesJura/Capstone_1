@@ -1,2 +1,7 @@
 # Capstone_1
-This project will call on my ability to read data and extract useful information using my SQL skills and create visualizations with Excel.
+The core of this project is: 
+playing the role of a data analyst, analyzing sales data for 
+a specific "sales territory" of a bookstore chain (EmporiUm),
+writing SQL queries, creating an Excel chart, 
+and telling a story of my findings
+(finally presenting my findings through video and in-class presentation).
