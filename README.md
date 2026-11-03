@@ -12,6 +12,7 @@ Create a Pivot Chart to visualize findings
 Present results through a video demo and presentation
 Complete additional exploratory analysis when applicable
 Sales Territory
+
 Assigned Territory: NJ
 
 Tools
