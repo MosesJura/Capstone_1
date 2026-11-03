@@ -24,5 +24,5 @@ SQL
 Microsoft Excel
 Git & GitHub
 
-Author
+Author:
 Moses Jura
