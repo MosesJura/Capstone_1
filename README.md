@@ -20,9 +20,13 @@ Assigned Territory: NJ
 
 Tools
 MySQL Workbench
-SQL
-Microsoft Excel
-Git & GitHub
+SQL : Querying and analyzing the sales database,
+Microsoft Excel :Creating Pivot Tables and Pivot Charts,
+Git & GitHub : Pushing and pulling my work using Git, Storing project files, tracking changes, 
+              and collaborating with team members
+
 
 Author:
 Moses Jura
+
+
