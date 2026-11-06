@@ -91,6 +91,9 @@ Since revenue surged in October, EmporiUm should plan targeted promotions, inven
 ## Final Analyst Conclusion
 
 EmporiUm's New Jersey operations are experiencing strong growth, with revenue nearly doubling compared to the same period in 2024. The business should focus on protecting its highest-performing category, Technology Accessories, while improving underperforming stores through category specialization and adoption of proven sales strategies from top-performing locations. Maintaining inventory availability and leveraging seasonal demand patterns will be critical for sustaining growth into the next quarter.
+
+PRESENTATION LINK: https://drive.google.com/file/d/1dA7yjc_2Ujr5m79h371y_22WRYE5nSh2/view?usp=sharing
+
               
 
 ## Author:
