@@ -22,6 +22,7 @@ writing SQL queries, creating an Excel chart,  and telling a story of my finding
 - **MySQL Workbench**
 - **SQL** : Querying and analyzing the sales database.
 - **Microsoft Excel** :Creating Pivot Tables and Pivot Charts.
+- **My DashBoard Link** : https://docs.google.com/spreadsheets/d/1x71CoidiBPrXB8YJw_Aj9U-2YrcxbJl-/edit?usp=sharing&ouid=103198547228484528970&rtpof=true&sd=true 
 - **Git & GitHub** : Pushing and pulling my work using Git, Storing project files, tracking changes. 
 
 
